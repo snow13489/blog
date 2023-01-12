@@ -2,3 +2,10 @@
 {
     width: 100%;
 }
+.movies{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    
+}
